@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string name="search">search</string>
+    <string name="movie_tag" translatable="false">movie_tag</string>
+</resources>
